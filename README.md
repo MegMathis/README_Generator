@@ -1,4 +1,4 @@
-# Password Generator
+# README Generator
 
 [![license](https://img.shields.io/badge/License-MIT-ff69b4)](https://shields.io)
 
