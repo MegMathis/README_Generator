@@ -1,9 +1,9 @@
-# Title
+# Password Generator
 
   [![license](https://img.shields.io/badge/License-MIT-ff69b4)](https://shields.io)
 
   ## Description
-  Project
+  This password generator application is used to scramble upper case letters, lower case letters, numbers, and special characters.  I used JavaScript to accomplish this task.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,19 +14,19 @@
   - [Questions](#questions)
 
   ## Installation
-  install
+  n/a
 
   ## License
   MIT
 
   ## Usage
-  Use
+  Open in browser.  Click generate password.  Follow prompts.
 
   ## Contribution
-  Meg
+  Megan Mathis
 
   ## Tests
-  test
+  n/a
 
   ## Questions
   Any questions, please contact me at:
