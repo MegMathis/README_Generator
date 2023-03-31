@@ -1,36 +1,86 @@
 # Password Generator
 
-  [![license](https://img.shields.io/badge/License-MIT-ff69b4)](https://shields.io)
+[![license](https://img.shields.io/badge/License-MIT-ff69b4)](https://shields.io)
 
-  ## Description
-  This password generator application is used to scramble upper case letters, lower case letters, numbers, and special characters.  I used JavaScript to accomplish this task.
+## Description
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [License](#license)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [Questions](#questions)
+This application is used so a user can quickly generate a README by entering in prompts.
 
-  ## Installation
-  n/a
+## Table of Contents
 
-  ## License
-  MIT
+- [Installation](#installation)
+- [License](#license)
+- [Usage](#usage)
+- [ScreenShots](#screenshots)
+- [Video](#video)
+- [Links to Deployment](#linkstodeployment)
+- [Credits](#LinkstoDeployment)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  ## Usage
-  Open in browser.  Click generate password.  Follow prompts.
+## Installation
 
-  ## Contribution
-  Megan Mathis
+1. npm init
+2. npm i iquirer
 
-  ## Tests
-  n/a
+## License
 
-  ## Questions
-  Any questions, please contact me at:
-  - GitHub:
+MIT
+
+## Usage
+
+1. Run `node index.js`
+2. Answer each prompt
+3. License - use a drop down box to select your license.
+4. Once finished you will be shown "README is generated"
+5. Right click on README.md and click "Open in Preview"
+
+## ScreenShots
+
+![Screenshot.](./images/node_index_js.png)
+![Screenshot.](./images/promps.png)
+![Screenshot.](./images/license_options.png)
+![Screenshot.](./images/clicking_readme.png)
+![Screenshot.](./images/refresh_preview.png)
+
+## Video
+
+https://drive.google.com/file/d/17jM0uItKU8YQe0Qj-IILgrHmRj2UILkV/view
+
+## Links to Deployment
+
+https://github.com/MegMathis/README_Generator
+
+## Credits
+
+https://www.markdownguide.org/cheat-sheet/
+
+https://www.youtube.com/watch?v=QFV7jzu8mKw
+
+https://www.youtube.com/watch?v=2VUQABoFOqw
+
+https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
+
+https://shields.io/
+
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+TA Paul
+
+## Contribution
+
+Megan Mathis
+
+## Tests
+
+n/a
+
+## Questions
+
+Any questions, please contact me at:
+
+- GitHub:
   [MegMathis](http://github.com/MegMathis)
-  - Email:
+- Email:
   [mcdonough.megan25@gmail.com](mailto:mcdonough.megan25@gmail.com)
